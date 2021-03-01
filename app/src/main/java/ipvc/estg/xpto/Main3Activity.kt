@@ -28,5 +28,6 @@ class Main3Activity : AppCompatActivity() {
 
     fun insert(view: View) {
         // nao funcional ainda
+        // ready tst2
     }
 }
