@@ -26,5 +26,7 @@ class Main3Activity : AppCompatActivity() {
         recycler_view.layoutManager = LinearLayoutManager(this)
     }
 
-    fun insert(view: View) {}
+    fun insert(view: View) {
+        // nao funcional ainda
+    }
 }
